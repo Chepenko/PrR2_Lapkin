@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\Курсач\sourses\ПрР1_Лапкин\ПрР1_Лапкин\bin\Debug\ПрР1_Лапкин.exe.config
+C:\Users\student\Desktop\Курсач\sourses\ПрР1_Лапкин\ПрР1_Лапкин\bin\Debug\ПрР1_Лапкин.exe
+C:\Users\student\Desktop\Курсач\sourses\ПрР1_Лапкин\ПрР1_Лапкин\bin\Debug\ПрР1_Лапкин.pdb
+C:\Users\student\Desktop\Курсач\sourses\ПрР1_Лапкин\ПрР1_Лапкин\obj\Debug\ПрР1_Лапкин.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Курсач\sourses\ПрР1_Лапкин\ПрР1_Лапкин\obj\Debug\ПрР1_Лапкин.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Курсач\sourses\ПрР1_Лапкин\ПрР1_Лапкин\obj\Debug\ПрР1_Лапкин.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Курсач\sourses\ПрР1_Лапкин\ПрР1_Лапкин\obj\Debug\ПрР1_Лапкин.exe
+C:\Users\student\Desktop\Курсач\sourses\ПрР1_Лапкин\ПрР1_Лапкин\obj\Debug\ПрР1_Лапкин.pdb
